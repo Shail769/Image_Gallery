@@ -1,0 +1,233 @@
+
+.icon1
+{
+    height: 15px;
+    width: 15px; 
+}
+.icon
+{
+    height: 15px;
+    width: 15px;
+    transform: rotate(180deg); 
+}
+.btn1
+{
+    background-color: gold;
+    border-width: 0px;
+    border-radius: 7px;
+    height: 35px;
+    width: 40px;
+}
+.btn2
+{
+    background-color: deepskyblue;
+    border-width: 0px;
+    border-radius: 7px;
+    height: 35px;
+    margin-left: 5px;
+}
+.img1
+{
+    height: 100%;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid;
+}
+.indback
+{
+    background-image: url(Images/40-black-wood-background-textures-21-.jpg);
+    /* background-size: cover; */
+}
+
+b
+{
+    margin-left: 5px;
+    background-color: gold;
+}
+
+.bigimg
+{
+    height: 40%;
+    width: 50%;
+    margin-bottom: 10px;
+    padding-top: 5%;
+}
+
+input
+{
+    height: 30px;
+    width: 270px;
+}
+
+.backimg1
+{
+    background-image: url(Images/16_philbath-abandonedhousesunset.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg2
+{
+    background-image: url(Images/14_cyndieasterly-oregoncoastnight.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg3
+{
+    background-image: url(Images/11_lizarodriguez-tetonnationalpark.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg4
+{
+    background-image: url(Images/1_jasonwickens-lastrayslightmalvernhills.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg5
+{
+    background-image: url(Images/10_geoffreybaker-moonovertibetanplateau5500meters.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg6
+{
+    background-image: url(Images/13_adamplewa-wislapoland2.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg7
+{
+    background-image: url(Images/12_richunelson-munnarkeralaindia.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.backimg8
+{
+    background-image: url(Images/18_tudorapmadoc-newzealandcountryside.jpg);
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.btn3
+{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 7px;
+    border-width: 0px;
+    height: 60px;
+    width: 80px;
+    float: right;
+    margin-right: 2.5%;
+}
+
+.btn4
+{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 7px;
+    border-width: 0px;
+    height: 60px;
+    width: 80px;
+}
+
+.fon
+{
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+.fon1
+{
+    color: whitesmoke;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
